@@ -16,6 +16,6 @@ We investigated the kinetics of thermal degradation in ACP using non-isothermal 
 
 ## Software
 
-The genetic algorithm optimization was implemented using [Gpyro software](https://github.com/lautenberger/gpyro).
+The genetic algorithm optimization was implemented using [Gpyro software](https://github.com/lautenberger/gpyro). (thanks to Chris Lautenberger)
 
 ---
