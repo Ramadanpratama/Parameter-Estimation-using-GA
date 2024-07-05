@@ -1,4 +1,4 @@
-# Thermal Degradation Kinetics of Aluminium Composite Panels (ACP)
+# Parameter estimation Aluminium Composite Panels (ACP)
 
 This repository contains data and analysis related to a study on the thermal degradation behavior of Aluminium Composite Panels (ACP) used in building facades. The research aims to address the insufficient characterization of ACP thermal properties, which may pose potential safety risks in building applications.
 
