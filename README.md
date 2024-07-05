@@ -13,7 +13,6 @@ We investigated the kinetics of thermal degradation in ACP using non-isothermal 
 
 1. **TGA Data**: Excel files containing raw thermogravimetric analysis data for various heating rates.
 2. **Isoconversional Analysis**: Excel files with calculated values from isoconversional methods (Friedman, Flynn-Wall-Ozawa, and Kissinger-Akahira-Sunose).
-3. **Gpyro Software**: Link to download the Gpyro software used for genetic algorithm (GA) optimization.
 
 ## Software
 
